@@ -1,1 +1,2 @@
-# checking-game-for-device
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
